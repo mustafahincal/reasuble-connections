@@ -1,4 +1,4 @@
-> # **Reausable Connetions by Junior Payment Products Team**
+> # **Reausable Connetions by Junior Payment Products**
 
 In this project, we have addressed the issue of users having to enter their payment methods separately for each form on a website where forms are created. We've introduced a solution where users can securely save their payment methods in their personal profiles. This innovation brings several significant benefits:
 
@@ -14,6 +14,27 @@ Overall, the primary goal of this innovation is to improve the user experience b
 
 > NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
+## **Technologies and techniques used in the project (Projede kullanılan teknikler ve teknolojiler)**
+
+### **Frontend**
+
+- **React**
+- **Tailwind CSS**
+- **Axios**
+- **Redux**
+- **Redux-Saga**
+
+### **Backend**
+
+- **PHP**
+
+### **Database**
+
+- **MySQL**
+
+<br>
+<hr>
+
 ![](ss/team.png)
 
 ![](ss/ss00.png)
@@ -23,8 +44,6 @@ Overall, the primary goal of this innovation is to improve the user experience b
 ![](ss/ss02.png)
 
 ![](ss/ss03.png)
-
-![](ss/ss04.png)
 
 ![](ss/ss05.png)
 
