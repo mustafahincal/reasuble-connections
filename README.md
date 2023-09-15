@@ -1,6 +1,6 @@
 > # **Reausable Connetions by Junior Payment Products**
 
-In this project, we have addressed the issue of users having to enter their payment methods separately for each form on a website where forms are created. We've introduced a solution where users can securely save their payment methods in their personal profiles. This innovation brings several significant benefits:
+In this project, we have addressed the issue of users having to enter their payment methods separately for each form on Jotform. We've introduced a solution where users can securely save their payment methods in their personal profiles. This innovation brings several significant benefits:
 
 Time Saving: Users no longer need to repeatedly input the same payment information for each form, resulting in time savings. The requirement to re-enter payment details for each form is eliminated.
 
@@ -59,7 +59,6 @@ Overall, the primary goal of this innovation is to improve the user experience b
 ![](ss/ss10.png)
 
 ![](ss/ss11.png)
-
 
 > ## **Contributors**
 
