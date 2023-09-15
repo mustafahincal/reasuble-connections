@@ -14,7 +14,7 @@ Overall, the primary goal of this innovation is to improve the user experience b
 
 > NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
-## **Technologies and techniques used in the project (Projede kullanılan teknikler ve teknolojiler)**
+> ## **Technologies and techniques used in the project**
 
 ### **Frontend**
 
