@@ -16,26 +16,6 @@ Overall, the primary goal of this innovation is to improve the user experience b
 
 <hr>
 
-> ## **Technologies and techniques used in the project**
-
-### **Frontend**
-
-- **React**
-- **Tailwind CSS**
-- **Axios**
-- **Redux**
-- **Redux-Saga**
-
-### **Backend**
-
-- **PHP**
-
-### **Database**
-
-- **MySQL**
-
-<hr>
-
 ![](ss/team.png)
 
 ![](ss/ss00.png)
