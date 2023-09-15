@@ -14,7 +14,6 @@ Overall, the primary goal of this innovation is to improve the user experience b
 
 > NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
-<br>
 <hr>
 
 > ## **Technologies and techniques used in the project**
@@ -35,7 +34,6 @@ Overall, the primary goal of this innovation is to improve the user experience b
 
 - **MySQL**
 
-<br>
 <hr>
 
 ![](ss/team.png)
