@@ -1,4 +1,4 @@
-> # **Reausable Connetions by Junior Payment Products**
+> # **Reausable Connections by Junior Payment Products**
 
 In this project, we have addressed the issue of users having to enter their payment methods separately for each form on Jotform. We've introduced a solution where users can securely save their payment methods in their personal profiles. This innovation brings several significant benefits:
 
